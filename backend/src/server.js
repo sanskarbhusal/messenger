@@ -17,7 +17,7 @@ const __dirname = path.resolve();
 
 app.use(
   cors({
-    origin: "http://20.193.156.0",
+    origin: "https://messenger.sanskarbhusal.com.np",
     credentials: true, // allow frontend to send cookies
   })
 );
